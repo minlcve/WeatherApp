@@ -18,5 +18,6 @@ This app displays the **current weather** and a **3-day daily forecast** using s
 
 ## Screenshots
 
-![Current Weather Screen](screenshots/current.png)
-![Daily Forecast Screen](screenshots/daily.png)
+
+![Screenshot 2025-05-16 032550](https://github.com/user-attachments/assets/2ac31a98-ec75-4dda-80bd-58e3cc04e2d5)
+![Screenshot 2025-05-16 032541](https://github.com/user-attachments/assets/574678dd-47f7-4167-832f-975bdbdd0dd6)
