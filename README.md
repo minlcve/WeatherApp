@@ -18,12 +18,12 @@ This app displays the **current weather** and a **3-day daily forecast** using s
 
 ## Screenshots
 
-## Current Weather Screen
+Current Weather Screen
 Displays the current weather condition, temperature, feels like temperature, and wind speed using an icon and centered layout.
 
 ![image alt](https://github.com/minlcve/WeatherApp/blob/main/current.png?raw=true)
 
-## Daily Forecast Screen
+Daily Forecast Screen
 Shows a scrollable 3-day forecast including weather icons, high/low temperatures, precipitation details, wind, and humidity.
 
 ![image alt](https://github.com/minlcve/WeatherApp/blob/main/daily.png?raw=true)
