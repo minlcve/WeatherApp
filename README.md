@@ -21,4 +21,4 @@ This app displays the **current weather** and a **3-day daily forecast** using s
 
 ![image alt](https://github.com/minlcve/WeatherApp/blob/main/current.png?raw=true)
 
-![image alt](https://github.com/minlcve/WeatherApp/blob/main/Screenshot%202025-05-16%20032550.png?raw=true)
+![image alt]([https://github.com/minlcve/WeatherApp/blob/main/Screenshot%202025-05-16%20032550.png?raw=true](https://github.com/minlcve/WeatherApp/blob/main/daily.png?raw=true))
