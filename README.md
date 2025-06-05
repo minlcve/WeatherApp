@@ -25,6 +25,10 @@ An Android weather app built with Kotlin and Jetpack Compose.
 ## Setup
 
 1. Clone this repo:
+2. Open in Android Studio.
+3. Add your WeatherAPI key in `WeatherService.kt`:
+```kotlin
+const val API_KEY = "your_api_key_here"
 
 
 ## Screenshots
