@@ -26,7 +26,7 @@ An Android weather app built with Kotlin and Jetpack Compose.
 ### Current Weather Screen  
 Now uses live weather data from WeatherAPI.com and the user's device location.
 
-![Current Weather](https://github.com/minlcve/WeatherApp/blob/main/app/src/main/java/com/example/weatherapps/screenshots/current.png?raw=true)
+![Current Weather](https://github.com/minlcve/WeatherApp/blob/main/app/src/main/java/com/example/weatherapps/screenshots/now.png?raw=true)
 
 ### Daily Forecast Screen  
 Shows a 3-day scrollable forecast using live data, weather icons, and extra info like wind and humidity.
