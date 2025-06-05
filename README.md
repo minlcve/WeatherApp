@@ -1,32 +1,43 @@
-# ☁️ WeatherApp
+# WeatherApp ☀️🌧️
 
-A simple Android weather app built using **Kotlin** and **Jetpack Compose** for **NSCC MOBI3002 Assignment 1**.
-
-This app displays the **current weather** and a **3-day daily forecast** using sample data stored in a ViewModel.
-
----
+An Android weather app built with Kotlin and Jetpack Compose.
 
 ## Features
 
-- Current weather: icon, condition, temperature, feels like, wind direction & speed
-- Daily forecast: icon, date, high/low temperature, precipitation, wind, and humidity
-- Navigation: bottom nav bar to switch between screens
-- Jetpack Compose UI with Material Design 3 components
-- Data stored and rendered from ViewModel using `StateFlow`
+- Displays current weather and daily forecast
+- Uses a clean, scrollable UI with cards and styling
+- Fetches live weather data using the [WeatherAPI.com](https://www.weatherapi.com/) web API
+- Gets the device's current location to show local weather
+- Shows a loading spinner while fetching data
 
----
+## Tech Used
+
+- Kotlin + Jetpack Compose
+- Retrofit for API calls
+- Google Play Services for location
+- Accompanist for permissions
+
+## Assignment Info
+
+- Assignment 1: Basic weather UI, mock data
+- Assignment 2: Connected to live API and device location
+
+## Setup
+
+1. Clone this repo:
+
 
 ## Screenshots
 
 Current Weather Screen
 Displays the current weather condition, temperature, feels like temperature, and wind speed using an icon and centered layout.
 
-![image alt](https://github.com/minlcve/WeatherApp/blob/main/current.png?raw=true)
+![image alt](https://github.com/minlcve/WeatherApp/blob/main/now.png?raw=true)
 
 Daily Forecast Screen
 Shows a scrollable 3-day forecast including weather icons, high/low temperatures, precipitation details, wind, and humidity.
 
-![image alt](https://github.com/minlcve/WeatherApp/blob/main/daily.png?raw=true)
+![image alt](https://github.com/minlcve/WeatherApp/blob/main/dailypart2.png?raw=true)
 
 
 ---
@@ -38,21 +49,12 @@ Shows a scrollable 3-day forecast including weather icons, high/low temperatures
 - Storm icon from [flaticon.com](https://www.flaticon.com/)
 
 
-##  Tech 
-
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Android Studio
-- StateFlow + ViewModel
-
----
 
 ## Assignment
 
 This project was created for:
 > **MOBI3002 – Android Development 2**  
-> NSCC Spring 2025 – Assignment 1
+> NSCC Spring 2025 – Assignment 2
 
 ---
 
