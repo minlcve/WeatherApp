@@ -22,14 +22,6 @@ An Android weather app built with Kotlin and Jetpack Compose.
 - Assignment 1: Basic weather UI, mock data
 - Assignment 2: Connected to live API and device location
 
-## Setup
-
-1. Clone this repo:
-2. Open in Android Studio.
-3. Add your WeatherAPI key in `WeatherService.kt`:
-```kotlin
-const val API_KEY = "your_api_key_here"
-
 
 ### Current Weather Screen  
 Now uses live weather data from WeatherAPI.com and the user's device location.
